@@ -25,6 +25,8 @@ setfixOnline(3097560)
 setfixOnline(2646460)
 --帝国时代4
 --setfixOnline(1466860)
+--龙山英雄
+setfixOnline(2733070)
 
 addtoken(1903260,"9473269223903791886")
 addtoken(3047130,"7844257334683668899")
