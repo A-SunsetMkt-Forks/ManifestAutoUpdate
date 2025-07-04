@@ -27,6 +27,7 @@ setfixOnline(2646460)
 --setfixOnline(1466860)
 --龙山英雄
 setfixOnline(2733070)
+setfixOnline(3030360)
 
 addtoken(1903260,"9473269223903791886")
 addtoken(3047130,"7844257334683668899")
