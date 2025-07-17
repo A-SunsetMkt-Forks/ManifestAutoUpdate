@@ -3,6 +3,7 @@ setSkipStub(431960)
 setSkipStub(2515020)
 setSkipStub(1551360)
 setSkipStub(1293830)
+setSteamId(3282390,76561199878813704)
 --命运游戏
 setSteamId(2963550,76561198427802323)
 --美女，请别影响我成仙
