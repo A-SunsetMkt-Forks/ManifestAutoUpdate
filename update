@@ -1,5 +1,5 @@
 {
-    "Version": "0.5.6",
-    "Content": "### 详情 \n * 修复服务器 \n",
+    "Version": "0.6",
+    "Content": "### Details \n * Compatible with the new version of Steam \n",
     "Url": "https://gitee.com/blanktm/manifest-auto-update/releases/download/Steam_%E5%85%A5%E5%BA%93/SteamUnlock.exe"
 }
