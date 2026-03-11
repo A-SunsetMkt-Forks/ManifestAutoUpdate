@@ -1,5 +1,5 @@
 {
-    "Version": "0.6.2",
-    "Content": "### Details \n * Add light and dark theme switching \n * Copy Appid \n * Add game to Steam without restarting \n",
+    "Version": "0.6.3",
+    "Content": "### Details \n * Enable cloud synchronization for the app list \n * Real-time game updates \n ",
     "Url": "https://gitee.com/blanktm/manifest-auto-update/releases/download/Steam_%E5%85%A5%E5%BA%93/SteamUnlock.exe"
 }
