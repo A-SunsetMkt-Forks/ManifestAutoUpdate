@@ -1,5 +1,5 @@
 {
-    "Version": "0.6.3",
-    "Content": "### Details \n * Enable cloud synchronization for the app list \n * Real-time game updates \n\n(SVIP)\n ",
+    "Version": "0.6.8",
+    "Content": "### Details \n * Fix adding game not responding \n * Correct the game list order \n\n(SVIP)\n ",
     "Url": "https://gitee.com/blanktm/manifest-auto-update/releases/download/Steam_%E5%85%A5%E5%BA%93/SteamUnlock.exe"
 }
