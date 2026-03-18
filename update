@@ -1,5 +1,5 @@
 {
-    "Version": "0.6.9",
-    "Content": "### Details \n * Fix adding game not responding \n * Correct the game list order \n\n(SVIP)\n ",
+    "Version": "0.7",
+    "Content": "### Details \n * Optimize the warehousing logic \n * Remove update game option \n * Fix other bugs \n ",
     "Url": "https://gitee.com/blanktm/manifest-auto-update/releases/download/Steam_%E5%85%A5%E5%BA%93/SteamUnlock.exe"
 }
