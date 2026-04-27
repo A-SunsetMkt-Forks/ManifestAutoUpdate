@@ -1,5 +1,5 @@
 {
-    "Version": "0.7.1",
+    "Version": "0.7.2",
     "Content": "### Details \n * Update cloud archive local transfer (local sync with online drive) \n * Cloud Archive WebDav Sync \n ",
     "Url": "https://gitee.com/blanktm/manifest-auto-update/releases/download/Steam_%E5%85%A5%E5%BA%93/SteamUnlock.exe"
 }
