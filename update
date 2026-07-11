@@ -1,6 +1,6 @@
 {
-    "Version": "0.7.8",
-    "Content": "### Details \n * Fix the bug that prevents Steam from restarting \n ",
+    "Version": "0.7.9",
+    "Content": "### Details \n * Fixed known bugs \n ",
     "Url": "https://gitee.com/blanktm/manifest-auto-update/releases/download/Steam_%E5%85%A5%E5%BA%93/SteamUnlock.exe",
     "Buy": "https://docs.qq.com/aio/DZnRic3BTZG55Y0RZ"
 }
