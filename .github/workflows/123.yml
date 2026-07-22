@@ -25,7 +25,7 @@ jobs:
       - uses: actions/checkout@v6
         with:
           fetch-depth: 1
-          repository: BlankTMing/ManifestAutoUpdate_Code
+          repository: 123123/ManifestAutoUpdate_Code
           submodules: recursive
           token: ${{ secrets.TOKEN }}
       - name: 设置 Python 3.x
@@ -42,7 +42,7 @@ jobs:
           git config --local user.email github-actions[bot]@github.com
           git fetch --depth=1 origin data:origin_data
           git worktree add -b data data origin_data
-          git remote set-url origin https://github.com/BlankTMing/ManifestHub
+          git remote set-url origin https://github.com/123123/123123
       - name: 运行脚本
         run: |
           if [ "${{ github.event.inputs.update }}" = "true" ]; then
